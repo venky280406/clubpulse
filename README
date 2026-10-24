@@ -7,7 +7,7 @@ ClubPulse is a full-stack web application designed for collecting and managing a
 * **Anonymous Feedback Form:** Users can select an event, leave a message, and submit a 1-5 star rating.
 * **Secure Admin Dashboard:** Protected by JWT authentication.
 * **Dynamic Data Filtering:** Admins can filter feedback by specific events.
-* **Real-time Analytics:** Automatically calculates total feedback count and average ratings based on the selected event filter.
+* **Real-time Analytics:** Automatically calculates total feedback count and average ratings based on the selected event filter as well as for all the events combined.
 * **Event Management:** Admins can seamlessly create and add new events to the database.
 * **Responsive UI:** Clean, modern interface styled entirely with Tailwind CSS.
 
